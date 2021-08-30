@@ -4,5 +4,20 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "project.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sact3rnlang3l/Test-builder-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sact3rnlang3l/Test-builder-1/issues"
+  },
+  "homepage": "https://github.com/Sact3rnlang3l/Test-builder-1#readme",
+  "description": ""
 }
